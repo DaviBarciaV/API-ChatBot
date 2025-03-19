@@ -16,7 +16,7 @@ Text input field for user messages
 
 Prerequisites
 
-Python 3.x
+Python 3.12
 
 An OpenAI API key (stored in a separate senha.py file as API_KEY)
 
